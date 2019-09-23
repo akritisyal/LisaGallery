@@ -1,0 +1,29 @@
+ body {
+    margin: 10;
+    padding: 2;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+h1 {
+    color : maroon;
+    font size: "50";
+    text-align : center;
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: 350%;
+}
+p 
+{
+    color : black;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    margin-down: 1cm;
+    margin-up: 1 cm;
+    
+}
+img
+{
+ border-radius: 10px;
+}
+
+
+
